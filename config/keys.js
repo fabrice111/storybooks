@@ -1,6 +1,5 @@
 module.exports = {
-    mongoURI: 'mongodb://fabryrukundo:rukundo111@ds139342.mlab.com:39342/storybooks-dev',
-    googleClientID:'319121550535-n30c1ofgomfkn1nb1a3ufcv8h7p6icid.apps.googleusercontent.com',
-    googleClientSecret:'R8NHbuWx4BxF-F_jNvAajgkR'
-
-}
+    mongoURI:'mongodb://localhost/storybooks',
+    googleClientID:'319121550535-tet5qa6ev9772n0jp324kep9du7eprfe.apps.googleusercontent.com',
+    googleClientSecret:'adR2ofNEAj4YfcIWja6IOsbu'
+  }
